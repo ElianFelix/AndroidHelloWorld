@@ -6,7 +6,6 @@ Codepath's Intro to Mobile Product Development Course pre-work project.
 A simple app with a view that displays text on screen with some customization buttons to sample some of the ui features available in the android system.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 <img src="Showcase.gif" width=200><br>
 
